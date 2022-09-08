@@ -16,4 +16,5 @@ if __name__ == '__main__':
     a=2
     b=2
     print('I am master of maths')
+    print('I love movies and games')
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/

@@ -12,4 +12,8 @@ def print_hi(name):
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     print_hi('PyCharm')
+    print(a+b)
+    a=2
+    b=2
+    print('I am master of maths')
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
